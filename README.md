@@ -1,1 +1,1 @@
-# https://bryanbez.github.io/index.html
+https://bryanbez.github.io
